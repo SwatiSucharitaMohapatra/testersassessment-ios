@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E2D752DB-47B5-4C03-A3EC-BEC05355BD11"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0990EDD8-E30D-4B7E-8519-7132E303C478"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ReferenceiOSUITests/Tests/CurrencyPageTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "testCurrencyFormatting()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0990EDD8-E30D-4B7E-8519-7132E303C478 - 5c488dbb94767e60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReferenceiOSUITests.LaunchActivityTests.testCurrencyFormatting() -&gt; ()"
+                  moduleName = "ReferenceiOSUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swatimohapatra/Downloads/testersassessment-ios/ReferenceiOSUITests/Tests/CurrencyPageTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "0990EDD8-E30D-4B7E-8519-7132E303C478 - 5c488dbb94767e41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ReferenceiOSUITests.LaunchActivityTests.testCurrencyFormatting() -&gt; ()"
+                  moduleName = "ReferenceiOSUITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/swatimohapatra/Downloads/testersassessment-ios/ReferenceiOSUITests/Tests/CurrencyPageTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

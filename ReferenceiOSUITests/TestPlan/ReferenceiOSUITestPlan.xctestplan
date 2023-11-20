@@ -1,0 +1,27 @@
+{
+  "configurations" : [
+    {
+      "id" : "684AEBE0-05C0-4B47-AD66-B681864F0247",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "skippedTests" : [
+        "ReferenceiOSUITests1"
+      ],
+      "target" : {
+        "containerPath" : "container:ReferenceiOS.xcodeproj",
+        "identifier" : "05D03C84224BA0FD005F6F05",
+        "name" : "ReferenceiOSUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
