@@ -7,8 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		034E23C42B0A1ED50073A6C8 /* execution.sh in Resources */ = {isa = PBXBuildFile; fileRef = 034E23C32B0A1ED50073A6C8 /* execution.sh */; };
 		034E23C62B0A1F4A0073A6C8 /* CountryIdentifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 034E23C52B0A1F4A0073A6C8 /* CountryIdentifiers.swift */; };
+		0351E7EC2B0B61CD00A8E5DD /* runUITests.sh in Resources */ = {isa = PBXBuildFile; fileRef = 0351E7EB2B0B61CD00A8E5DD /* runUITests.sh */; };
+		0351E7F72B0B62DB00A8E5DD /* ios_test_assignment_instructions.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 0351E7EE2B0B62DB00A8E5DD /* ios_test_assignment_instructions.pdf */; };
+		0351E7F82B0B62DB00A8E5DD /* Jenkinsfile.sh in Resources */ = {isa = PBXBuildFile; fileRef = 0351E7EF2B0B62DB00A8E5DD /* Jenkinsfile.sh */; };
+		0351E7F92B0B62DB00A8E5DD /* Gemfile.lock in Resources */ = {isa = PBXBuildFile; fileRef = 0351E7F02B0B62DB00A8E5DD /* Gemfile.lock */; };
+		0351E7FA2B0B62DB00A8E5DD /* fastlane in Resources */ = {isa = PBXBuildFile; fileRef = 0351E7F12B0B62DB00A8E5DD /* fastlane */; };
+		0351E7FB2B0B62DB00A8E5DD /* Gemfile in Resources */ = {isa = PBXBuildFile; fileRef = 0351E7F22B0B62DB00A8E5DD /* Gemfile */; };
+		0351E7FC2B0B62DB00A8E5DD /* README.MD in Resources */ = {isa = PBXBuildFile; fileRef = 0351E7F32B0B62DB00A8E5DD /* README.MD */; };
+		0351E8002B0B692D00A8E5DD /* ReferenceiOSUIPerformanceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0351E7FF2B0B692D00A8E5DD /* ReferenceiOSUIPerformanceTests.swift */; };
+		0351E8022B0B6A4500A8E5DD /* PerformanceMetricMeasures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0351E8012B0B6A4500A8E5DD /* PerformanceMetricMeasures.swift */; };
 		03DAD4652B0739150043BFAC /* ReferenceiOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DAD4642B0739150043BFAC /* ReferenceiOSUITests.swift */; };
 		03DAD4672B073D070043BFAC /* BasePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DAD4662B073D070043BFAC /* BasePage.swift */; };
 		03DAD4692B07413B0043BFAC /* HomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DAD4682B07413B0043BFAC /* HomePage.swift */; };
@@ -42,8 +50,16 @@
 
 /* Begin PBXFileReference section */
 		034E23C12B0A055E0073A6C8 /* ReferenceiOSUITestPlan.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; name = ReferenceiOSUITestPlan.xctestplan; path = ReferenceiOSUITests/TestPlan/ReferenceiOSUITestPlan.xctestplan; sourceTree = SOURCE_ROOT; };
-		034E23C32B0A1ED50073A6C8 /* execution.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = execution.sh; sourceTree = "<group>"; };
 		034E23C52B0A1F4A0073A6C8 /* CountryIdentifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryIdentifiers.swift; sourceTree = "<group>"; };
+		0351E7EB2B0B61CD00A8E5DD /* runUITests.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = runUITests.sh; sourceTree = "<group>"; };
+		0351E7EE2B0B62DB00A8E5DD /* ios_test_assignment_instructions.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = ios_test_assignment_instructions.pdf; sourceTree = "<group>"; };
+		0351E7EF2B0B62DB00A8E5DD /* Jenkinsfile.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = Jenkinsfile.sh; sourceTree = "<group>"; };
+		0351E7F02B0B62DB00A8E5DD /* Gemfile.lock */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Gemfile.lock; sourceTree = "<group>"; };
+		0351E7F12B0B62DB00A8E5DD /* fastlane */ = {isa = PBXFileReference; lastKnownFileType = folder; path = fastlane; sourceTree = "<group>"; };
+		0351E7F22B0B62DB00A8E5DD /* Gemfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Gemfile; sourceTree = "<group>"; };
+		0351E7F32B0B62DB00A8E5DD /* README.MD */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.MD; sourceTree = "<group>"; };
+		0351E7FF2B0B692D00A8E5DD /* ReferenceiOSUIPerformanceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReferenceiOSUIPerformanceTests.swift; sourceTree = "<group>"; };
+		0351E8012B0B6A4500A8E5DD /* PerformanceMetricMeasures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerformanceMetricMeasures.swift; sourceTree = "<group>"; };
 		03DAD4642B0739150043BFAC /* ReferenceiOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReferenceiOSUITests.swift; sourceTree = "<group>"; };
 		03DAD4662B073D070043BFAC /* BasePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasePage.swift; sourceTree = "<group>"; };
 		03DAD4682B07413B0043BFAC /* HomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePage.swift; sourceTree = "<group>"; };
@@ -109,6 +125,7 @@
 			children = (
 				03DAD46A2B07420C0043BFAC /* PageElements.swift */,
 				034E23C52B0A1F4A0073A6C8 /* CountryIdentifiers.swift */,
+				0351E8012B0B6A4500A8E5DD /* PerformanceMetricMeasures.swift */,
 			);
 			path = Utils;
 			sourceTree = "<group>";
@@ -127,6 +144,7 @@
 			isa = PBXGroup;
 			children = (
 				03DAD4642B0739150043BFAC /* ReferenceiOSUITests.swift */,
+				0351E7FF2B0B692D00A8E5DD /* ReferenceiOSUIPerformanceTests.swift */,
 			);
 			path = Tests;
 			sourceTree = "<group>";
@@ -134,7 +152,13 @@
 		05D03C5D224BA0FB005F6F05 = {
 			isa = PBXGroup;
 			children = (
-				034E23C32B0A1ED50073A6C8 /* execution.sh */,
+				0351E7F12B0B62DB00A8E5DD /* fastlane */,
+				0351E7F22B0B62DB00A8E5DD /* Gemfile */,
+				0351E7F02B0B62DB00A8E5DD /* Gemfile.lock */,
+				0351E7EE2B0B62DB00A8E5DD /* ios_test_assignment_instructions.pdf */,
+				0351E7EF2B0B62DB00A8E5DD /* Jenkinsfile.sh */,
+				0351E7F32B0B62DB00A8E5DD /* README.MD */,
+				0351E7EB2B0B61CD00A8E5DD /* runUITests.sh */,
 				05D03C68224BA0FB005F6F05 /* ReferenceiOS */,
 				05D03C7D224BA0FD005F6F05 /* ReferenceiOSTests */,
 				05D03C88224BA0FD005F6F05 /* ReferenceiOSUITests */,
@@ -292,8 +316,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0351E7FC2B0B62DB00A8E5DD /* README.MD in Resources */,
+				0351E7EC2B0B61CD00A8E5DD /* runUITests.sh in Resources */,
 				05D03C74224BA0FD005F6F05 /* LaunchScreen.storyboard in Resources */,
+				0351E7FB2B0B62DB00A8E5DD /* Gemfile in Resources */,
+				0351E7F82B0B62DB00A8E5DD /* Jenkinsfile.sh in Resources */,
+				0351E7FA2B0B62DB00A8E5DD /* fastlane in Resources */,
 				05D03C71224BA0FD005F6F05 /* Assets.xcassets in Resources */,
+				0351E7F92B0B62DB00A8E5DD /* Gemfile.lock in Resources */,
+				0351E7F72B0B62DB00A8E5DD /* ios_test_assignment_instructions.pdf in Resources */,
 				05D03C6F224BA0FB005F6F05 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -309,7 +340,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				034E23C42B0A1ED50073A6C8 /* execution.sh in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -338,8 +368,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0351E8002B0B692D00A8E5DD /* ReferenceiOSUIPerformanceTests.swift in Sources */,
 				03DAD46E2B077BE80043BFAC /* PageActions.swift in Sources */,
 				034E23C62B0A1F4A0073A6C8 /* CountryIdentifiers.swift in Sources */,
+				0351E8022B0B6A4500A8E5DD /* PerformanceMetricMeasures.swift in Sources */,
 				03DAD46B2B07420C0043BFAC /* PageElements.swift in Sources */,
 				03DAD4672B073D070043BFAC /* BasePage.swift in Sources */,
 				03DAD4692B07413B0043BFAC /* HomePage.swift in Sources */,
